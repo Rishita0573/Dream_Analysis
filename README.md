@@ -1,4 +1,4 @@
-# Dream_Analysis
+# Dream_Journel
 Advanced Sleep Analytics Platform with Dream Analysis
 
 A Python-based sleep tracking application that helps analyze sleep patterns and dream content.
